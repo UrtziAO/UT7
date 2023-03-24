@@ -355,7 +355,9 @@ fieldset select {
 }
 
 input[type="date"], select {
-    color: gray;
+    color: #767676;
+    font-family: "Inter", sans-serif;
+    font-size: 1rem;
 }
 
 input[type="date"]:focus, select:focus{
